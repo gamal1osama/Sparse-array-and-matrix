@@ -1,0 +1,3 @@
+E:/materials/DS CPP Udemy mostafa saad/Project sparse+matrix/My_Code 1/cmake-build-debug/CMakeFiles/My_Code.dir
+E:/materials/DS CPP Udemy mostafa saad/Project sparse+matrix/My_Code 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/materials/DS CPP Udemy mostafa saad/Project sparse+matrix/My_Code 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
